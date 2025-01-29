@@ -5,10 +5,9 @@
 ### **A Collection of Essential Developer Tools for All DevOps and Software Engineers**  
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-Extension%20Pack-blue?style=for-the-badge&logo=visualstudiocode)  
-![Version](https://img.shields.io/badge/version-0.0.1-brightgreen?style=flat-square)  
-![License](https://img.shields.io/badge/license-MIT-blue)  
+ 
 
----
+
 
 ## **🛠 About This Extension Pack**  
 The **Srikanth Generic Dev Tools** extension pack provides a curated selection of **must-have VS Code extensions** to enhance productivity, streamline DevOps workflows, and improve development efficiency.  

@@ -2,7 +2,7 @@
   "name": "srikanth-generic-dev-tools",
   "displayName": "Srikanth Generic Dev Tools",
   "description": "A collection of essential developer tools for all DevOps and software engineers",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "publisher": "srikanthk",
   "icon": "icon.png",
   "engines": {
@@ -16,7 +16,6 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "eamodio.gitlens",  
     "blackboxapp.blackbox" ,                
     "ms-vsliveshare.vsliveshare",  
     "ms-vscode-remote.remote-containers",   
@@ -28,8 +27,7 @@
     "pkief.material-icon-theme",          
     "esbenp.prettier-vscode",             
     "dbaeumer.vscode-eslint",                              
-    "usernamehw.errorlens",                                  
-    "wix.vscode-import-cost"  ,
+    "usernamehw.errorlens",                             
     "visualstudioexptteam.vscodeintellicode",
     "visualstudioexptteam.intellicode-api-usage-examples",
     "cardinal90.multi-cursor-case-preserve","rvest.vs-code-prettier-eslint",
