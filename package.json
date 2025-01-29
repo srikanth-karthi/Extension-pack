@@ -4,6 +4,7 @@
   "description": "A collection of essential developer tools for all DevOps and software engineers",
   "version": "0.0.2",
   "publisher": "srikanthk",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.96.0"
   },
