@@ -2,7 +2,7 @@
   "name": "srikanth-generic-dev-tools",
   "displayName": "Srikanth Generic Dev Tools",
   "description": "A collection of essential developer tools for all DevOps and software engineers",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "publisher": "srikanthk",
   "icon": "icon.png",
   "engines": {
@@ -33,6 +33,7 @@
     "visualstudioexptteam.vscodeintellicode",
     "visualstudioexptteam.intellicode-api-usage-examples",
     "cardinal90.multi-cursor-case-preserve","rvest.vs-code-prettier-eslint",
-    "gruntfuggly.todo-tree"
+    "gruntfuggly.todo-tree",
+    "donjayamanne.git-extension-pack"
   ]
 }
