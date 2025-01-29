@@ -2,7 +2,7 @@
   "name": "srikanth-generic-dev-tools",
   "displayName": "Srikanth Generic Dev Tools",
   "description": "A collection of essential developer tools for all DevOps and software engineers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "srikanthk",
   "engines": {
     "vscode": "^1.96.0"
@@ -15,8 +15,11 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "eamodio.gitlens",                   
-    "ms-vsliveshare.vsliveshare",        
+    "eamodio.gitlens",  
+    "blackboxapp.blackbox" ,                
+    "ms-vsliveshare.vsliveshare",  
+    "ms-vscode-remote.remote-containers",   
+    "hediet.vscode-drawio",   
     "github.copilot",                     
     "github.copilot-chat",                
     "ms-azuretools.vscode-docker",        
@@ -25,6 +28,10 @@
     "esbenp.prettier-vscode",             
     "dbaeumer.vscode-eslint",                              
     "usernamehw.errorlens",                                  
-    "wix.vscode-import-cost"               
+    "wix.vscode-import-cost"  ,
+    "visualstudioexptteam.vscodeintellicode",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "cardinal90.multi-cursor-case-preserve","rvest.vs-code-prettier-eslint",
+    "gruntfuggly.todo-tree"
   ]
 }
