@@ -1,0 +1,30 @@
+{
+  "name": "srikanth-generic-dev-tools",
+  "displayName": "Srikanth Generic Dev Tools",
+  "description": "A collection of essential developer tools for all DevOps and software engineers",
+  "version": "0.0.1",
+  "publisher": "srikanthk",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srikanth-karthi/Extension-pack"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "eamodio.gitlens",                   
+    "ms-vsliveshare.vsliveshare",        
+    "github.copilot",                     
+    "github.copilot-chat",                
+    "ms-azuretools.vscode-docker",        
+    "redhat.vscode-yaml",                 
+    "pkief.material-icon-theme",          
+    "esbenp.prettier-vscode",             
+    "dbaeumer.vscode-eslint",                              
+    "usernamehw.errorlens",                                  
+    "wix.vscode-import-cost"               
+  ]
+}
